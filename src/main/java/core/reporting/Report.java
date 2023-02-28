@@ -13,7 +13,6 @@ public class Report {
     }
 
     ExtentReports extent = new ExtentReports();
-
     ExtentTest test;
     ExtentSparkReporter reporter;
 
